@@ -3,9 +3,9 @@
 I build software.
 
 <p float="left">
-  <img width="32" height="32" src="https://github.com/kaidx3/kaidx3/blob/main/c--4.svg">
   <img width="32" height="32" src="https://github.com/kaidx3/kaidx3/blob/main/logo-javascript.svg">
   <img width="32" height="32" src="https://github.com/kaidx3/kaidx3/blob/main/typescript.svg">
+  <img width="32" height="32" src="https://github.com/kaidx3/kaidx3/blob/main/c--4.svg">
   <img width="32" height="32" src="https://github.com/kaidx3/kaidx3/blob/main/python-5.svg">
   <img width="32" height="32" src="https://github.com/kaidx3/kaidx3/blob/main/react-2.svg">
   <img width="32" height="32" src="https://github.com/kaidx3/kaidx3/blob/main/blazor.svg">
