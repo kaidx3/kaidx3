@@ -2,7 +2,7 @@
 
 I build software.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,cs,dart,flutter,nodejs,dotnet,java,html,css)](https://skillicons.dev)
 <!--
 **KaidenX04/KaidenX04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
